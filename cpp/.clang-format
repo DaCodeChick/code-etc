@@ -1,6 +1,3 @@
-# Severed Chains Native — project-wide formatting
-# Baseline: LLVM, with the project overrides below. Run: clang-format -i <file>
-# Do NOT mass-reformat files you haven't touched.
 BasedOnStyle: LLVM
 IndentWidth: 2
 UseTab: Never
